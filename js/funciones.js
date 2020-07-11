@@ -19,7 +19,7 @@ function calculadora()
 {
 	//se ejecutara todo lo que este aqui adentro
 	console.log("hola soy la calculadora");
-	console.log("si soy yo"); //el retur es parecido al console log, recuerda que el return solo funciona para comprobar el
+	console.log("si soy yo"); //el return es parecido al console log, recuerda que el return solo funciona para comprobar el
 							// funcionamiento del programa, es como un console log
 }
 

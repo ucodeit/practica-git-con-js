@@ -53,3 +53,9 @@ dato =>
 	console.log("La suma por dos es: ", (dato*2));
 });
 */
+
+
+/*Nota teorica, todas las funciones flecha son callbacks pero no todos los callbacks son funciones flecha
+				Todos los collbacks son funciones anonimas pero no todos las funciones anonimas son callbacks
+				Las funciones anonimas se llaman igual que sus elementos.
+*/
